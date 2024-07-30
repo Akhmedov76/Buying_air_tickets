@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "UzAirways",
+        "capacity": 120
+    },
+    {
+        "id": 2,
+        "name": "TurkishAirline",
+        "capacity": 100
+    },
+    {
+        "id": 3,
+        "name": "USAAirplane",
+        "capacity": 150
+    }
+]

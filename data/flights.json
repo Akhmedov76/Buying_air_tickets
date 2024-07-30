@@ -1,0 +1,59 @@
+[
+  {
+    "plane": {
+      "id": 1,
+      "name": "UzAirways",
+      "capacity": 120
+    },
+    "from_airport": {
+      "name": "UzAirways",
+      "country": "Uzbekistan"
+    },
+    "to_airport": {
+      "name": "TurkishAirport",
+      "country": "Turkiya"
+    },
+    "flight_time": "04:40",
+    "landing_time": "06:40",
+    "tickets": 112,
+    "price": 15000.0
+  },
+  {
+    "plane": {
+      "id": 3,
+      "name": "USAAirplane",
+      "capacity": 150
+    },
+    "from_airport": {
+      "name": "USAAirways",
+      "country": "America"
+    },
+    "to_airport": {
+      "name": "TurkishAirport",
+      "country": "Turkiya"
+    },
+    "flight_time": "08:50",
+    "landing_time": "15:50",
+    "tickets": 145,
+    "price": 13000.0
+  },
+  {
+    "plane": {
+      "id": 3,
+      "name": "USAAirplane",
+      "capacity": 150
+    },
+    "from_airport": {
+      "name": "USAAirways",
+      "country": "America"
+    },
+    "to_airport": {
+      "name": "UzAirways",
+      "country": "Uzbekistan"
+    },
+    "flight_time": "06:40",
+    "landing_time": "19:40",
+    "tickets": 145,
+    "price": 16000.0
+  }
+]

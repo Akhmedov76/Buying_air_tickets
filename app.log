@@ -1,0 +1,93 @@
+2024-07-28 16:48:31 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-07-28 16:52:14 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-07-28 16:54:01 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-07-28 16:54:52 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-07-28 16:59:19 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-07-28 17:08:50 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-07-28 17:11:46 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-07-28 17:12:04 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-07-28 17:15:04 - INFO - function: login args: () kwargs: {}, result: False
+2024-07-28 17:15:06 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-07-28 17:25:14 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-28 17:25:35 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-28 17:35:10 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-28 17:35:54 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-28 17:44:44 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-28 17:45:33 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-28 17:46:04 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-28 17:47:00 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-28 17:48:19 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-28 17:48:46 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-28 17:49:17 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-28 17:50:01 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-28 17:57:08 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-28 17:57:50 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-28 17:58:46 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-28 17:59:10 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-28 18:01:33 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-28 18:18:35 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-28 18:34:00 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-07-28 18:38:23 - INFO - function: login args: () kwargs: {}, result: False
+2024-07-28 18:38:27 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-07-28 18:43:36 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-07-28 18:45:31 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-07-28 18:46:30 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-07-28 18:58:23 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-28 19:03:18 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-28 19:05:38 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-28 19:07:39 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-28 19:09:05 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-28 19:09:59 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-28 19:10:55 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-28 19:12:40 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-28 19:14:18 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-28 19:15:15 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-28 19:15:48 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-28 19:16:16 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-28 19:19:17 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-07-28 19:19:42 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-07-28 19:25:16 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-28 19:25:22 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-07-28 19:25:54 - INFO - Function: create_plane args: () kwargs: {} result: True
+2024-07-29 11:44:00 - INFO - function: login args: () kwargs: {}, result: False
+2024-07-29 11:44:09 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-29 11:44:49 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-07-29 11:45:19 - INFO - Function: create_plane args: () kwargs: {} result: True
+2024-07-29 12:10:48 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-07-29 12:49:21 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-07-29 12:50:07 - INFO - Function: create_plane args: () kwargs: {} result: True
+2024-07-29 12:50:21 - INFO - Function: create_plane args: () kwargs: {} result: True
+2024-07-29 13:11:36 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-29 13:13:12 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-07-29 13:16:08 - INFO - function: login args: () kwargs: {}, result: False
+2024-07-29 13:16:10 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-07-29 13:17:05 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-07-29 13:17:19 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-29 13:21:06 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-29 13:22:33 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-29 13:23:43 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-29 13:28:26 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-29 13:30:07 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-29 13:32:55 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-29 13:33:38 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-29 14:50:21 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-07-29 14:56:40 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-07-29 14:57:25 - INFO - Function: create_plane args: () kwargs: {} result: True
+2024-07-29 15:02:14 - INFO - Function: create_flight args: () kwargs: {} result: True
+2024-07-29 15:03:42 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-29 15:05:11 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-07-29 15:05:19 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-29 15:10:28 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-29 15:11:39 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-29 15:16:24 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-29 15:17:02 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-29 15:17:40 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-29 15:19:25 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-29 15:20:12 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-07-29 15:57:02 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-07-29 15:58:22 - INFO - Function: create_flight args: () kwargs: {} result: True
+2024-07-29 16:01:27 - INFO - Function: create_flight args: () kwargs: {} result: True
+2024-07-29 16:02:02 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-07-29 16:02:59 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}
+2024-07-29 16:04:04 - INFO - Function: create_flight args: () kwargs: {} result: True
+2024-07-29 16:04:46 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'Admin'}

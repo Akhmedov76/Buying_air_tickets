@@ -1,0 +1,11 @@
+[
+    {
+        "passport_number": "ab0000",
+        "email": "jasur@gmail.com",
+        "departure_airport": "Uzbekistan",
+        "destination_airport": "Turkiya",
+        "booked_flight_id": 1,
+        "ticket": 4,
+        "total_price": 60000.0
+    }
+]
